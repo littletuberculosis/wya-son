@@ -63,19 +63,6 @@ footer img {
   transition: transform 0.3s;
 }
 
-.boxy-link:hover {
-  background-color: var(--accent-color);
-  color: var(--bg-color);
-  transform: translateY(-3px);
-}
-
-@keyframes fadeIn {
-  100% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
 #main-title {
   margin-top: 150px;
   /* border: 1px dashed; */
